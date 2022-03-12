@@ -1,10 +1,11 @@
 # Telco-Customer-Churn
 End to end project using data science to address customer churn
 
-Objective: Building a predictive churn model and using it's output to generate a target list.<br>
+<h2>Objective:</h2>
+Building a predictive churn model and using it's output to generate a target list.<br>
 It will predict customers who are likely to be churn.<br>this help to identify some stratigies to handle customer churn.
 
-Different churn scenario in Telecom industry:
+<h2>Different churn scenario in Telecom industry:</h2>
 1. <b>Teriff Plan Churn:</b> Customer moving from higher plan to lower.
 2. <b>Service Churn:</b> Customer sudddenly stops their weekly/monthly services OR move from higher service plan to lower one.
 3. <b>Usage Churn:</b> Customer partially become inactive (Zero usage)
@@ -25,7 +26,7 @@ Different churn scenario in Telecom industry:
 <li>Mobile Customer --> Have thought about churning --> no lock in --> not satisfied = <b> Unsatisfied Churner</b> </li>
 </ul>
 
-<h1>Four Churn Segments:</h1>
+<h2>Four Churn Segments:</h2>
 1. <b>Conditionally loyal Subscriber:</b> Frequently re-evaluate purchase decision<br>
 Likes to test new products
 2. <b>Conditional Churner:</b> Getting better deals from competitors.
