@@ -27,8 +27,7 @@ It will predict customers who are likely to be churn.<br>this help to identify s
 </ul>
 
 <h2>Four Churn Segments:</h2>
-1. <b>Conditionally loyal Subscriber:</b> Frequently re-evaluate purchase decision<br>
-Likes to test new products
+1. <b>Conditionally loyal Subscriber:</b> Frequently re-evaluate purchase decision.     Likes to test new products<br>
 2. <b>Conditional Churner:</b> Getting better deals from competitors.<br>
 3. <b>Lifestyle Migrator:</b> Unconditional change in needs/lifestyle<br>
 4. <b>Unsatisfied Churner:</b> Unsatisfied customer <br>
