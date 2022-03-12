@@ -1,5 +1,5 @@
 # Telco-Customer-Churn
-End to end project using data science to address customer churn
+End to end data science project to address customer churn/ Flask API / Deployed on Heroku : <a href="https://git.heroku.com/customer-churn-predictor-01.git" target="_blank">https://git.heroku.com/customer-churn-predictor-01.git</a>
 
 <h2>Objective:</h2>
 Building a predictive churn model and using it's output to generate a target list.<br>
